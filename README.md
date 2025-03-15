@@ -82,15 +82,7 @@ git clone https://github.com/AndresO16/sistema-biblioteca.git
    ```
    http://localhost:4200
    ```
-
-## 📜 API Endpoints (Swagger)
-
-Para acceder a la documentación de la API, abrir en el navegador:
-
-```
-http://localhost:8080/swagger-ui.html
-```
-
+   
 ## ✅ Pruebas
 
 Para ejecutar las pruebas unitarias en el backend:
